@@ -1,0 +1,23 @@
+{
+  "name": "altarix/utils",
+  "description": "different useful php classes",
+  "type": "library",
+  "keywords": [
+    "library",
+    "utils",
+    "tools",
+    "yii2"
+  ],
+  "license": "MIT",
+  "authors": [
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "altarix\\utils\\": ""
+    }
+  }
+}
