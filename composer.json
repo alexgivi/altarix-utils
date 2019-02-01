@@ -15,7 +15,7 @@
     "php": ">=7.0",
     "ext-json": "*",
     "yiisoft/yii2": "~2.0",
-    "thamtech/yii2-uuid": "~1.1",
+    "thamtech/yii2-uuid": "~1.1"
   },
   "autoload": {
     "psr-4": {
